@@ -1,4 +1,4 @@
-# EX.-NO-1-C-IMPLEMENTATION-OF-HILL-CIPHER
+# EX.3- IMPLEMENTATION-OF-HILL-CIPHER
 
 ## AIM:
 To write a C program to implement the hill cipher substitution techniques.
